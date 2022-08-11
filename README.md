@@ -1,2 +1,2 @@
 # NesneTanima
-![nesne](https://user-images.githubusercontent.com/78691060/184219215-2a1fa0fc-3c17-4420-beef-fc88cbe1b22d.png)
+![nesne](https://user-images.githubusercontent.com/78691060/184222178-35a8d521-379e-4b04-b2c5-f92fd50e235b.png)
